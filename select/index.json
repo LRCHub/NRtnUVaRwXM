@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "INVISIBLE",
+  "base_artist": "Duran Duran",
+  "createdAt": "2025-12-01T08:34:46.629225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Invisible Blue",
+      "artist": "Logan Ledger",
+      "has_synced": true,
+      "path": "select/01_Invisible_Blue_Logan_Ledger.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Invisible (feat. Uli K & Bladee)",
+      "artist": "Yung Sherman feat. Uli K & Bladee",
+      "has_synced": true,
+      "path": "select/02_Invisible_(feat._Uli_K_&_Bladee)_Yung_Sherman_feat._Uli_K_&_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Invisible (feat. Uli K & Bladee)",
+      "artist": "Yung Sherman",
+      "has_synced": true,
+      "path": "select/03_Invisible_(feat._Uli_K_&_Bladee)_Yung_Sherman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Invisible Man",
+      "artist": "Lush",
+      "has_synced": false,
+      "path": "select/04_The_Invisible_Man_Lush.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Woman with the Invisible Necklace",
+      "artist": "Laetitia Sadier Source Ensemble",
+      "has_synced": false,
+      "path": "select/05_The_Woman_with_the_Invisible_Necklace_Laetitia_Sadier_Source_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Woman With the Invisible Necklace",
+      "artist": "Lætitia Sadier Source Ensemble",
+      "has_synced": false,
+      "path": "select/06_The_Woman_With_the_Invisible_Necklace_Lætitia_Sadier_Source_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Invisible",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/07_Invisible_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nickee Coco and the Invisible Tree",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/08_Nickee_Coco_and_the_Invisible_Tree_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Invisible Guide",
+      "artist": "Koan",
+      "has_synced": false,
+      "path": "select/09_Invisible_Guide_Koan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beyond The Invisible",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/10_Beyond_The_Invisible_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Invisible Love",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/11_Invisible_Love_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Invisible City",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/12_Invisible_City_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Invisible City (Live)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/13_Invisible_City_(Live)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Invisible Man",
+      "artist": "Scatman John",
+      "has_synced": false,
+      "path": "select/14_The_Invisible_Man_Scatman_John.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "03 - The Invisible Man",
+      "artist": "Scatman John",
+      "has_synced": false,
+      "path": "select/15_03_-_The_Invisible_Man_Scatman_John.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Invisible",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/16_Invisible_Anthrax.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "invisible",
+      "artist": "Lyu:Lyu",
+      "has_synced": false,
+      "path": "select/pl_01_invisible_Lyu_Lyu.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Invisible Date",
+      "artist": "Lyu:Lyu",
+      "has_synced": false,
+      "path": "select/pl_02_Invisible_Date_Lyu_Lyu.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Invisible",
+      "artist": "Lyu:Lyu",
+      "has_synced": false,
+      "path": "select/pl_03_Invisible_Lyu_Lyu.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Invisible",
+      "artist": "Lyu:Lyu",
+      "has_synced": false,
+      "path": "select/pl_04_Invisible_Lyu_Lyu.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "invisible date",
+      "artist": "Lyu:Lyu",
+      "has_synced": false,
+      "path": "select/pl_05_invisible_date_Lyu_Lyu.txt"
+    }
+  ]
+}
